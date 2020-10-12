@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 
-title: Optional Pass Fail
-description: We are students at Northwestern University who want optional pass fail for our peers.
 github:
     is_project_page: false
+
+title: Optional Pass Fail
+description: We are students at Northwestern University who want optional pass fail for our peers.
