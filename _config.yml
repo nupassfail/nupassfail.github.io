@@ -1,6 +1,5 @@
 theme: jekyll-theme-slate
 
 title: Optional Pass Fail | Northwestern University
-site:
-  github:
+github:
     is_project_page: false
